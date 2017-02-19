@@ -27,5 +27,8 @@ public class LA3SCM {
 	
 	    	}
     	
-    
+    public void addFeatureA()
+    {
+    	System.out.println("No it's my world");
+    }
 }
