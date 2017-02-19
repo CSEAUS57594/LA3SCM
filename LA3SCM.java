@@ -20,4 +20,12 @@ public class LA3SCM {
         System.out.println("Hello World");
     }
     
+    public void addFeatureB()
+    {
+        System.out.println("Hello World from B");
+    
+	
+	    	}
+    	
+    
 }
